@@ -1,3 +1,3 @@
-# RNA Sequence-Based Prediction of Aminoacylation Using Deep Learning
+# Transfer RNA Sequence-Based Prediction of Aminoacylation Percentages Using Deep Learning
 
 
