@@ -1,0 +1,16 @@
+# Ignore data files
+/data/raw/
+/data/processed/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
+
+# Ignore system files
+.DS_Store
